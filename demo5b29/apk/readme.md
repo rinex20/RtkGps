@@ -1,4 +1,4 @@
-* Please download debug version if you want to use mocklocation.
+* Please download debug version(RTKGNSS.apk) if you want to use mocklocation.
 
 2017.10.01
 * fix mocklocation bug in Android M and later
